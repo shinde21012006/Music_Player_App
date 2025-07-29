@@ -17,7 +17,13 @@ class AboutActivity : AppCompatActivity() {
         binding.aboutText.text = aboutText()
     }
     private fun aboutText(): String{
-        return "Developed By: Android Innovators"
+
+        return "Welcome to Music Player App,The Ultimate Music Player Design " +
+                "to Elevate Your Listing experience." +
+                "whether you are a casual listener or an audiophile,Over Player Combines" +
+                "powerful features  with a clean,intuitive interface......!!!!!" +
+                "\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDeveloped By: Android Innovators."
+
 
     }
 }

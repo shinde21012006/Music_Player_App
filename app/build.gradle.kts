@@ -16,6 +16,7 @@ android {
 
         // For showing build version name
         buildConfigField("String", "VERSION_NAME", "\"$versionName\"")
+        applicationIdSuffix = "com.androidInnovators.musicPlayer"
     }
 
     buildTypes {
