@@ -18,8 +18,9 @@
 - **And much more...**
 
 #**Screenshots**
-![screen_7](https://github.com/user-attachments/assets/03c0c1cc-93b1-4069-a9f2-58ab7132555f)
-![screen_8](https://github.com/user-attachments/assets/9ae44e25-97c9-4788-af95-9d4776d0c3cd)
+<img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_2.png" width=30% height=30%/>
+![screen_7](https://github.com/user-attachments/assets/03c0c1cc-93b1-4069-a9f2-58ab7132555f)width=30% height=30%/>
+![screen_8](https://github.com/user-attachments/assets/9ae44e25-97c9-4788-af95-9d4776d0c3cd)width=30% height=30%/>
 ![screen_9](https://github.com/user-attachments/assets/37f98b60-8725-4fe1-a364-86ba079a8d08)
 ![screen_10](https://github.com/user-attachments/assets/59b566cd-ec9d-48f5-9bbb-4f9037cc4604)
 ![screen_11](https://github.com/user-attachments/assets/ecf2a93c-e69c-4ede-a280-96f987ab946d)
