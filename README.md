@@ -17,3 +17,4 @@
 - Clean and modern UI with **Material Design Widgets**.
 - **And much more...**
 
+![screen_7](https://github.com/user-attachments/assets/03c0c1cc-93b1-4069-a9f2-58ab7132555f)
