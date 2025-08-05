@@ -20,7 +20,7 @@
 #**Screenshots**
 <kbd>
     <img width="916" height="819" alt="Screenshot 2025-07-30 111237" src="https://github.com/user-attachments/assets/c8d11efe-9885-42a3-adcb-6c667bc44d38" />
-
+    <img width="798" height="816" alt="Screenshot 2025-07-30 112815" src="https://github.com/user-attachments/assets/7260bd4b-3882-4b3e-b50b-ea2063ecf15c" />
 <kbd>
 
 
