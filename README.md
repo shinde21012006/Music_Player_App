@@ -19,7 +19,8 @@
 
 #**Screenshots**
 <kbd>
-    <C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-07-30 111237.png width=30% height=30%>
+    <img width="916" height="819" alt="Screenshot 2025-07-30 111237" src="https://github.com/user-attachments/assets/c8d11efe-9885-42a3-adcb-6c667bc44d38" />
+
 <kbd>
 
 
